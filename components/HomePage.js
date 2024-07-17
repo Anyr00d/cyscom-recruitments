@@ -35,7 +35,7 @@ export default function HomePage() {
 					<p className={styles.heading} style={{ marginTop: '0px' }}>
 						Recruitments
 					</p>
-					<p className={styles.subheading}>2023-2024</p>
+					<p className={styles.subheading}>2024-2024</p>
 					<div className={styles.buttonWrapper}>
 						<Link href='/form'>
 							<div className={styles.button1}>Register</div>
@@ -249,8 +249,8 @@ export default function HomePage() {
 					<li>Fill the form with some basic details.</li>
 					<li>
 						Choose your preferred interview slot and department. Apply before
-						26-08-2023 5:00 PM for 27-08-2023 & 28-08-2023 slots and before
-						29-08-2023 5:00 PM for 31-08-2023 & 01-09-2023 slots.
+						26-08-2024 5:00 PM for 27-08-2024 & 28-08-2024 slots and before
+						29-08-2024 5:00 PM for 31-08-2024 & 01-09-2024 slots.
 					</li>
 					<li>
 						The interview will be conducted on Google Meet. If you are selected,

@@ -82,7 +82,7 @@ export default function AssignInterview({ handleSubmit }) {
 							}}
 							value='27'
 						>
-							27 August, 2023
+							27 August, 2024
 						</Select.Option>
 						<Select.Option
 							style={{
@@ -90,7 +90,7 @@ export default function AssignInterview({ handleSubmit }) {
 							}}
 							value='28'
 						>
-							28 August, 2023
+							28 August, 2024
 						</Select.Option>
 						<Select.Option
 							style={{
@@ -98,7 +98,7 @@ export default function AssignInterview({ handleSubmit }) {
 							}}
 							value='31' // 31st August
 						>
-							31 August, 2023
+							31 August, 2024
 						</Select.Option>
 						<Select.Option
 							style={{
@@ -106,7 +106,7 @@ export default function AssignInterview({ handleSubmit }) {
 							}}
 							value='1' // 1st September
 						>
-							1 September, 2023
+							1 September, 2024
 						</Select.Option>
 					</Select>
 				</Form.Item>

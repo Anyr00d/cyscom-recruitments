@@ -28,8 +28,8 @@ export default function CandidateForm({ data }) {
         </Descriptions.Item>
         <Descriptions.Item label='Date Preference'>
           {data.personalData.datePreference === '1'
-            ? `${data.personalData.datePreference} September, 2023`
-            : `${data.personalData.datePreference} August, 2023`}
+            ? `${data.personalData.datePreference} September, 2024`
+            : `${data.personalData.datePreference} August, 2024`}
         </Descriptions.Item>
         <Descriptions.Item label='Time Preference'>
           {data.personalData.timePreference}

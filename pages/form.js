@@ -33,7 +33,7 @@ export default function Form() {
 			{
 				<div style={style}>
 					{/* Use a old date on close the registration */}
-					{Date.now() < new Date('2022-11-02').getTime() ? (
+					{Date.now() < new Date('2024-11-02').getTime() ? (
 						<div>
 							<FormSteps></FormSteps>
 							{componenetToRender()}

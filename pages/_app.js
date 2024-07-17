@@ -39,13 +39,13 @@ function MyApp({ Component, pageProps }) {
       }}
     >
       <Head>
-        <title>CYSCOM VITC Recruitments 2023-24</title>
+        <title>CYSCOM VITC Recruitments 2024-25</title>
         <meta name='author' content='Cyscom' />
       </Head>
       <Head>
         <meta
           name='description'
-          content="The official portal for CYSCOM VITC's recruitments 2023-24"
+          content="The official portal for CYSCOM VITC's recruitments 2024-25"
         />
       </Head>
       <Head>
