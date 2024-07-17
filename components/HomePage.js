@@ -35,7 +35,7 @@ export default function HomePage() {
 					<p className={styles.heading} style={{ marginTop: '0px' }}>
 						Recruitments
 					</p>
-					<p className={styles.subheading}>2024-2024</p>
+					<p className={styles.subheading}>2024-2025</p>
 					<div className={styles.buttonWrapper}>
 						<Link href='/form'>
 							<div className={styles.button1}>Register</div>
